@@ -1,2 +1,2 @@
 # rocketseatPr-tica2
-. Using HTML and CSS. Practice for development in the front-end area. Following what I've learned on the Rocketseat platform, which Porto Digital provided to students of the Embarque Digital program.
+I'm developing a tourism landing page using only HTML and CSS. The page presents information highlighting tourist attractions. The goal is to practice the semantic structuring of HTML and the use of CSS styles to create an organized and visually appealing layout. Following what I've learned on the Rocketseat platform, which Porto Digital provided to students of the Embarque Digital program.
